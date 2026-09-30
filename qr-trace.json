@@ -1,0 +1,86 @@
+{
+  "Tomatoes - Ravi Kumar": {
+    "farmerName": "Ravi Kumar",
+    "farm": "Ravi Kumar Farm, Kanchipuram",
+    "batchId": "BATCH-TMT-1042",
+    "approval": "Verified",
+    "grade": "Grade A — Premium",
+    "manualScore": 92,
+    "harvestDate": "07-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Chennai Hub",
+    "timestamp": "10-09-2026"
+  },
+  "Potatoes - Green Farm": {
+    "farmerName": "Selvam Pillai",
+    "farm": "Green Farm, Kanchipuram",
+    "batchId": "BATCH-POT-2091",
+    "approval": "Verified",
+    "grade": "Grade B — Standard",
+    "manualScore": 89,
+    "harvestDate": "05-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Chennai Hub",
+    "timestamp": "10-09-2026"
+  },
+  "Apples - Nilgiri Orchards": {
+    "farmerName": "Karthik Raja",
+    "farm": "Nilgiri Orchards, Ooty",
+    "batchId": "BATCH-APL-3310",
+    "approval": "Verified",
+    "grade": "Grade A — Premium",
+    "manualScore": 94,
+    "harvestDate": "02-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Coimbatore Hub",
+    "timestamp": "10-09-2026"
+  },
+  "Bananas - Theni Farms": {
+    "farmerName": "Muthu Krishnan",
+    "farm": "Theni Farms, Theni",
+    "batchId": "BATCH-BAN-4127",
+    "approval": "Verified",
+    "grade": "Grade B — Standard",
+    "manualScore": 90,
+    "harvestDate": "08-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Madurai Hub",
+    "timestamp": "10-09-2026"
+  },
+  "Oranges - Coimbatore Growers": {
+    "farmerName": "Lakshmi Narayanan",
+    "farm": "Coimbatore Growers Collective",
+    "batchId": "BATCH-ORG-5502",
+    "approval": "Verified",
+    "grade": "Grade A — Premium",
+    "manualScore": 88,
+    "harvestDate": "04-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Coimbatore Hub",
+    "timestamp": "10-09-2026"
+  },
+  "Mangoes - Salem Farms": {
+    "farmerName": "Ganesan Pillai",
+    "farm": "Salem Farms, Salem",
+    "batchId": "BATCH-MNG-6688",
+    "approval": "Verified",
+    "grade": "Grade A — Premium",
+    "manualScore": 95,
+    "harvestDate": "01-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Salem Hub",
+    "timestamp": "10-09-2026"
+  },
+  "Grapes - Dindigul Vineyards": {
+    "farmerName": "Anitha Raj",
+    "farm": "Dindigul Vineyards",
+    "batchId": "BATCH-GRP-7743",
+    "approval": "Verified",
+    "grade": "Grade B — Standard",
+    "manualScore": 91,
+    "harvestDate": "06-09-2026",
+    "inspectedBy": "Hub Admin (Manual Verification)",
+    "checkpoint": "Dindigul Hub",
+    "timestamp": "10-09-2026"
+  }
+}

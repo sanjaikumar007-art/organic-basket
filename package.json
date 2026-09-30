@@ -1,0 +1,14 @@
+{
+  "name": "organic-basket-qr-backend",
+  "version": "1.0.0",
+  "description": "Simple backend serving QR traceability records for Organic Basket",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

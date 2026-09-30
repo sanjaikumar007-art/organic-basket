@@ -1,0 +1,30 @@
+{
+  "Tomatoes - Ravi Kumar": [
+    { "customer": "Priya Sundaram", "rating": 5, "comment": "Very fresh, tasted great and lasted a full week in the fridge.", "date": "12-09-2026" },
+    { "customer": "Arjun Kannan", "rating": 4, "comment": "Good quality, delivered on time. Slightly pricier than the market but worth it.", "date": "11-09-2026" }
+  ],
+  "Potatoes - Green Farm": [
+    { "customer": "Divya Ramesh", "rating": 5, "comment": "Perfectly sized potatoes, no rotten pieces in the bag.", "date": "12-09-2026" },
+    { "customer": "Suresh Babu", "rating": 4, "comment": "Good for daily cooking, will order again.", "date": "10-09-2026" }
+  ],
+  "Apples - Nilgiri Orchards": [
+    { "customer": "Meena Iyer", "rating": 5, "comment": "Crisp and sweet, kids loved them.", "date": "13-09-2026" },
+    { "customer": "Rahul Varma", "rating": 5, "comment": "Best apples I've bought online so far.", "date": "11-09-2026" }
+  ],
+  "Bananas - Theni Farms": [
+    { "customer": "Kavitha Raj", "rating": 4, "comment": "Ripened evenly, good for smoothies.", "date": "12-09-2026" },
+    { "customer": "Naveen Kumar", "rating": 3, "comment": "A couple were slightly overripe on arrival.", "date": "09-09-2026" }
+  ],
+  "Oranges - Coimbatore Growers": [
+    { "customer": "Sowmya Prakash", "rating": 5, "comment": "Juicy and tangy, exactly as described.", "date": "13-09-2026" },
+    { "customer": "Vignesh Anand", "rating": 4, "comment": "Fresh batch, packaging could be better.", "date": "10-09-2026" }
+  ],
+  "Mangoes - Salem Farms": [
+    { "customer": "Anitha Selvam", "rating": 5, "comment": "Amazing aroma and sweetness, felt like farm-fresh mangoes.", "date": "12-09-2026" },
+    { "customer": "Deepak Mohan", "rating": 5, "comment": "Worth every rupee, ordering more next week.", "date": "08-09-2026" }
+  ],
+  "Grapes - Dindigul Vineyards": [
+    { "customer": "Revathi Balan", "rating": 4, "comment": "Seedless and sweet, kids finished the whole box in a day.", "date": "11-09-2026" },
+    { "customer": "Karthik Subramani", "rating": 4, "comment": "Fresh and firm, good value for the price.", "date": "09-09-2026" }
+  ]
+}
